@@ -1,0 +1,14 @@
+git:latest
+mailer:latest
+configuration-as-code:latest
+jobConfigHistory:latest
+markdown-formatter:latest
+github-oauth:latest
+copyartifact:latest
+matrix-auth:latest
+parameterized-trigger:latest
+ws-cleanup:latest
+timestamper:latest
+ssh-slaves:latest
+docker-workflow:latest
+
